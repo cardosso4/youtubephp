@@ -1,3 +1,22 @@
+
+<p align="center">
+    <h1 align="center">COMO RODAR O PROJETO</h1>
+    <br>
+</p>
+
+
+
+RODAR OS COMANDOS ABAIXO
+-------------------
+git clone "url projeto" <br>
+composer intall <br>
+------------------
+
+INICIANDO A APLICAÇÃO
+---------------------
+Ma raiz do projeto rodar o comando "php yii serve"
+
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
