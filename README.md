@@ -9,7 +9,7 @@
 RODAR OS COMANDOS ABAIXO
 -------------------
 git clone "url projeto" <br>
-composer intall <br>
+composer install <br>
 ------------------
 
 INICIANDO A APLICAÇÃO
